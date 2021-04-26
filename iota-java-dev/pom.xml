@@ -88,7 +88,7 @@
         <converter-gson.version>2.5.0</converter-gson.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <slf4j-api.version>1.7.25</slf4j-api.version>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <mockito-core.version>2.23.0</mockito-core.version>
         <mockito-junit-jupiter.version>2.23.0</mockito-junit-jupiter.version>
         <hamcrest-core.version>2.1</hamcrest-core.version>
